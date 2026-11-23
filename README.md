@@ -19,10 +19,6 @@ SEO and growth marketer from Gurugram, India, who also builds things. I plan the
 | **Misri Cosmetics** | Beauty and skincare content site. | [misricosmetics.com](https://misricosmetics.com) |
 | **SEO Lands** | My SEO, ads and web studio. | [seolands.com](https://seolands.com) |
 
-### Client work
-
-- **globalhealthcareindia.com** and **globala1institutes.com** – built both websites, added a smart chat that captures leads and sends them to the CRM, and set up the SEO foundation.
-
 ### Tools I use
 
 Google Search Console · GA4 · Google Tag Manager · Keyword Planner · Meta Ads Manager · Google Ads · WordPress · Node.js · MySQL · Claude · ChatGPT
